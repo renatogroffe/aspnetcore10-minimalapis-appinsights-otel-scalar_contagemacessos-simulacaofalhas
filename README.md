@@ -3,8 +3,13 @@ Exemplo de API REST para contagem de acessos criada com .NET 10 + ASP.NET Core +
 
 Imagem no Docker Hub: https://hub.docker.com/r/renatogroffe/aspnetcore10-apicontagem-simulacaofalhas/tags
 
-Para baixar execute o comando:
+Para baixar esta imagem execute o comando:
 
 ```bash
 docker pull renatogroffe/aspnetcore10-apicontagem-simulacaofalhas:1
 ```
+
+Monitoramento desta API REST via Application Insights + OpenTelemetry:
+
+![Application Insights](img/app-insights-01.png)
+
