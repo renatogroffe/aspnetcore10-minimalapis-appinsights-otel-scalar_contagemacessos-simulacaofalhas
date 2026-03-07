@@ -15,3 +15,4 @@ Monitoramento desta API REST via Application Insights + OpenTelemetry:
 
 Pipeline do Azure DevOps empregado em testes de carga com esta API: https://github.com/renatogroffe/aspnetcore10-minimalapis-appinsights-otel-scalar_contagemacessos-simulacaofalhas
 
+Workflow do GitHub Actions empregado em testes de carga com esta API: https://github.com/renatogroffe/k6-loadtests-githubactions-api-html-dashboard
